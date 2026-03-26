@@ -1,0 +1,3 @@
+
+
+In HYBHY Chapter 7, you explain that the "Chain of Command" is a rigid structure where going over a boss's head is a high-risk move. Conversely, Fogel describes "Forkability" in ProducingOSS as the ultimate check on power, where participants can copy the project and leave if a leader makes bad decisions. In a corporate environment where "forking" the company is impossible for an employee, how can one effectively "manage up" the chain when a boss acts like a traditional dictator rather than a "Benevolent Dictator"? Does the lack of "forkability" in a corporation make skip-level meetings a necessary substitute for the "revolt and fork" mechanism found in open source?
